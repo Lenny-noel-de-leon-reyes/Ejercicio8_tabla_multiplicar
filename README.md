@@ -14,4 +14,3 @@ Proceso:
 Limpieza de Datos:
 
 ![Ejercicio8_3](https://github.com/Lenny-noel-de-leon-reyes/Ejercicio8_tabla_multiplicar/assets/158470011/da94fd7a-d818-41fc-b753-4b22773463ee)
-
